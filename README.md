@@ -3,6 +3,7 @@ Tópicos Especiais em Inteligência Artificial 🧠🤖
 Este repositório contém a implementação de algoritmos de Heurística e Metaheurística em JavaScript para a disciplina de Tópicos Especiais em Inteligência Artificial. Os algoritmos foram desenvolvidos para resolver problemas complexos de otimização, buscando encontrar soluções de boa qualidade em um tempo razoável, sem a necessidade de uma solução exata.
 
 Objetivos 🎯:
+
 Estudar e implementar técnicas de otimização baseadas em heurísticas e metaheurísticas.
 Aplicar essas técnicas a problemas típicos da área de inteligência artificial.
 
